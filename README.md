@@ -4,6 +4,8 @@
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Labritz&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Labritz)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tecnologias que geralmente utilizo!
 <div style="display: inline_block"><br/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
