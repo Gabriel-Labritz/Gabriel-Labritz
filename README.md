@@ -2,9 +2,6 @@
 [![Linkedn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gabriel-labritz-199499229)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/litz_gabriel/)
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Labritz&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Labritz)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que geralmente utilizo!
 <div style="display: inline_block"><br/>
